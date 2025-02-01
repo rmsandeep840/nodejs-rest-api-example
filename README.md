@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Node.js REST API Example
 
 This example shows how to implement a simple REST API using Node.js and Docker. The API has five endpoints that all return a simple response in JSON.
@@ -102,3 +103,7 @@ Transfer-Encoding: chunked
 
 {"response":"This is DELETE method."}
 ```
+=======
+# nodejs-rest-api-example
+nodejs-rest-api-example 
+>>>>>>> origin/main
